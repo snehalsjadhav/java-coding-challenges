@@ -12,6 +12,22 @@ This repository includes the following implementations:
 4. **Bubble Sort** - Sorts an array using the bubble sort algorithm
 5. **Fibonacci Series** - Generates the Fibonacci sequence
 
+## Source Files Description
+
+This repository contains the following Java source files:
+
+- **ArrayReverser.java** - Contains methods to reverse an array of integers. Demonstrates basic array manipulation and in-place operations.
+
+- **FactorialCalculator.java** - Provides both iterative and recursive implementations for calculating factorials. Shows different approaches to solving the same problem and demonstrates recursion.
+
+- **PalindromeChecker.java** - Implements a case-insensitive palindrome checker that ignores non-alphanumeric characters. Demonstrates string manipulation and character processing.
+
+- **BubbleSort.java** - Contains an implementation of the bubble sort algorithm for sorting integer arrays. Demonstrates a basic sorting algorithm and array manipulation.
+
+- **FibonacciGenerator.java** - Provides methods to generate Fibonacci sequences and individual Fibonacci numbers. Shows both iterative and recursive approaches to sequence generation.
+
+- **Main.java** - A demonstration class that showcases all the implemented algorithms in one place. Provides a comprehensive example of how to use each class.
+
 ## How to Compile and Run
 
 ### Prerequisites
